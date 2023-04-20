@@ -10,9 +10,6 @@ def get_option():
 jm_albums = str_to_list('''
 338402
 399391
-
-
-
 ''')
 
 # 调用jmcomic的download_album方法，下载漫画
